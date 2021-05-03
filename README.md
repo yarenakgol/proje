@@ -20,3 +20,14 @@ ile sayfanın kendim tarafından oluştuğunu bildirdim.
 
 4.meta name="viewport" content="width=device-width, inital-scale=1.0"
 etiketi ile sitenin farklı cihazlardan girildiğinde farklı boyutlara sahip olmasını, cihaza göre şekillenmesini sağladım.
+
+Üçüncü değişiklik:
+Web sitemin girişinde form oluşturdum.Form kısmım ad-soyad, e-mail, şifre bölümünden oluşuyor.
+
+Form bölümünde action kısmı oluşturdum. Bu kısım ile yeni bir html sayfasına yönlendirme yaptım. Böylelikle üye olan herkes kayit.html web siteme ve tariflerime ulaşabilecekler.
+
+Formun daha düzenli bir görüntüsü olması için tablolardan yararlandım. Table etiketi içinde tr ve td etiketleri kullandım. İnput ile bilgi girişi yapılmasını sağladım. Ad-soyad için oluşturduğum td etiketinde autofocus kullandım. Çünkü imlecimin açıldığında orada olmasını istedim. Tüm td etiketlerinde ise placeholder ve required kullandım. Placeholder ile doldurulucak kısımda girilecek bilgi için anahtar kelimeler tanımladım. Required ile zorunlu girilecek kısımları tanımladım.
+
+İnput type submit etiketini formu göndermek için, input type reset etiketini ise girilen bilgileri temizlemek için kullandım. 
+
+Aşağıda öneri ve şikayetler bölümü oluşturdum.
