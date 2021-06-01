@@ -31,3 +31,6 @@ Formun daha düzenli bir görüntüsü olması için tablolardan yararlandım. T
 İnput type submit etiketini formu göndermek için, input type reset etiketini ise girilen bilgileri temizlemek için kullandım. 
 
 Aşağıda öneri ve şikayetler bölümü oluşturdum.
+
+Dördüncü değişiklik:
+Giriş sayfasının dizaynlarını css dosyası ile yaptım. Form bölümünü ortaya çektim. Son aşamaya yaklaşmak üzereyim. Tariflerin olduğu kısımı yapıp projemi bitireceğim.
