@@ -30,11 +30,10 @@ Formun daha düzenli bir görüntüsü olması için tablolardan yararlandım. T
 
 İnput type submit etiketini formu göndermek için, input type reset etiketini ise girilen bilgileri temizlemek için kullandım. 
 
-14.06.2021 02:40
-Elimde olmayan sebeplerden dolayı dosyalarım sildi. Kodlarımı word dosyasına kaydedip USB bellek içine kaydetmiştim. Oradan tekrar kodlarımı yazdım. Bu yüzden kodlarım bugün yazılmış gibi gözüküyor.
-
-
 Aşağıda öneri ve şikayetler bölümü oluşturdum.
 
 Dördüncü değişiklik:
 Giriş sayfasının dizaynlarını css dosyası ile yaptım. Form bölümünü ortaya çektim. Son aşamaya yaklaşmak üzereyim. Tariflerin olduğu kısımı yapıp projemi bitireceğim.
+
+14.06.2021 02:40
+Elimde olmayan sebeplerden dolayı dosyalarım sildi. Kodlarımı word dosyasına kaydedip USB bellek içine kaydetmiştim. Oradan tekrar kodlarımı yazdım. Bu yüzden kodlarım bugün yazılmış gibi gözüküyor.
